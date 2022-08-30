@@ -1,2 +1,2 @@
-# destos
-its a simple discord token gen and checker. it display the token if its valid
+# Destos
+Its a Simple Discord Token Generator and Checker. It Display's the Token if its Valid!
